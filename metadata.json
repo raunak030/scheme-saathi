@@ -1,0 +1,7 @@
+{
+  "name": "Scheme Saathi",
+  "description": "An intelligent eligibility checker for government schemes helping citizens identify benefits they qualify for.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
